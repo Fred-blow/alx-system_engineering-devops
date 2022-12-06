@@ -1,2 +1,1 @@
-#!/bin/bash
-0. Hello World
+Scrpt to print Hello World
